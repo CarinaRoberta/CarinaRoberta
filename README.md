@@ -8,8 +8,8 @@ CarinaRoberta/CarinaRoberta is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 <div style="display: inline_block">
-<img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=carinaroberta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carinaroberta&layout=compact&langs_count=16&theme=tokyonight"/>
+<img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=carinaroberta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carinaroberta&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
 
