@@ -7,7 +7,7 @@ Sou desenvolvedora Fron-End utilizando as tecnologias abaixo :arrow_down:
 CarinaRoberta/CarinaRoberta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<div>
+<div style="display: inline_block">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=carinaroberta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carinaroberta&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
