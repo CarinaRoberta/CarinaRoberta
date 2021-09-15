@@ -1,6 +1,6 @@
 <h1>👋  Olá! Eu sou a Carina</h1>
 
-Sou estudante de desenvolvimento fron-end utilizando as tecnologias abaixo :arrow_down:
+Sou estudante de desenvolvimento front-end utilizando as tecnologias abaixo :arrow_down:
 
 
 <!---
