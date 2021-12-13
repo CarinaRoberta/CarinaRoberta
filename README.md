@@ -1,4 +1,4 @@
-<h1>👋  Olá!</h1>
+<h1>👋 Hello There!</h1>
 
 Sou estudante de desenvolvimento front-end utilizando as tecnologias abaixo :arrow_down:
 
