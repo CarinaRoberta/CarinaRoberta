@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/l1KugPr0wJONnqhpK/giphy.gif"/>
 
-<img alt="" src="https://agenda.infn.it/event/20813/images/6201-giphy.gif" style="height: 1px; width: 100%;">
+
 I'm front-end developer with tech stacks :arrow_down:
 <div><br>
 
@@ -17,7 +17,7 @@ I'm front-end developer with tech stacks :arrow_down:
  <a href="https://styled-components.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/styled-components/brand/bde053200192814dcd55923b6e41884d18e51665/styled-components.svg" alt="styled-components" width="30" height="30"/> </a>
  </p>
 
-<img alt="" src="https://agenda.infn.it/event/20813/images/6201-giphy.gif" style="height: 30px; width: 100%;">
+
 <div style="display: inline_block">
 <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=carinaroberta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carinaroberta&layout=compact&langs_count=16&theme=tokyonight"/>
