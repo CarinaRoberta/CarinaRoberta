@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/l1KugPr0wJONnqhpK/giphy.gif"/>
 
-<img alt="" src="https://agenda.infn.it/event/20813/images/6201-giphy.gif" style="height: 30px; width: 100%;">
+<img alt="" src="https://agenda.infn.it/event/20813/images/6201-giphy.gif" style="height: 1px; width: 100%;">
 I'm front-end developer with tech stacks :arrow_down:
 <div><br>
 
